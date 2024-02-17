@@ -1,0 +1,21 @@
+{
+    "students": [
+        {
+            "name": "Alice",
+            "age": 22,
+            "major": "Computer Science"
+        },
+        {
+            "name": "Bob",
+            "age": 24,
+            "major": "Mathematics"
+        },
+        {
+            "name": "Charlie",
+            "age": 20,
+            "major": "Physics"
+        }
+    ],
+    "Hobby": "Soccer",
+    "Country": "Uzbekistan"
+}
